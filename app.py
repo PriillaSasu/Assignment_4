@@ -31,7 +31,7 @@ def fetch_data(url, date=None):
 @app.route('/')
 def home():
     data = fetch_data(url)
-    return render_template('index.html', countries=countries, data=data)
+    return render_template('HW4_MM3ZI2QXLG.html', countries=countries, data=data)
 
 
 if __name__ == "__main__":
