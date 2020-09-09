@@ -34,7 +34,7 @@
 
 .links a{
     color: white;
-    margin: 0 18px;
+    margin: 0 20px;
 }
 
 .blue_80 .text_logo{
@@ -307,7 +307,6 @@ path:hover{
     padding: 10px;
     color: #e3486e;
     border: 1px solid #F2F3F7;
-    border-radius: 100%;
 }
 
 .foot_section .foot_20{
